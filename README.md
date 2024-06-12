@@ -2,4 +2,4 @@
 - 👀 I’m interested in Game Development.
 - 🌱 I’m currently learning Networking
 - 📫 How to reach me info@msmith.codes
-- 😄 Pronouns: min/he
+- 😄 Pronouns: him/he
