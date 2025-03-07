@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👀 I’m interested in game engine development.<br>📚 I'm currently learning Graphics Programming in OpenGL<br>📫 Reach me at: msmith.softwaredev@gmail.com</p>
+<p align="left">👀 I’m interested in game engine development.<br>📚 I'm currently learning Graphics Programming in OpenGL<br>📫 Reach me at: <a href="mailto:msmith.softwarededv@gmail.com" target="_blank">msmith.softwaredev@gmail.com</a></p>
 
 ###
 
